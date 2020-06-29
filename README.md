@@ -1,4 +1,4 @@
-# feathers-chat-sample
+# feathersJS-chat-sample
 
 > 
 
